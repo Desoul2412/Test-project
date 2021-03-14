@@ -1,0 +1,21 @@
+.header {
+    color:green;
+}
+.main {
+    background: LightGreen;
+    padding: 100px;
+    font-size: 38px;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.footer {
+    background: SlateGrey;
+    padding: 30px;
+    font-style: 32px;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    
+ }
